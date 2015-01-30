@@ -1,2 +1,2 @@
 # brewfile
-Brew File automation package installer
+Config Brew File automation package installer

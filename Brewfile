@@ -42,3 +42,5 @@ appstore Numbers
 appstore Pages
 appstore The Unarchiver
 appstore Xcode
+
+after npm -g install bower casperjs grunt-cli gulp gulp-autocompletion-zsh npm-check-updates phantomjs
